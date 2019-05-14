@@ -4,3 +4,5 @@ Captivate tutorial for:
 - Setting up/organizing a project
 - Viewing objects
 - Manipulating objects
+
+👉 [Start Course](https://talitw.github.io/learn-rhino/tutorial.html)
