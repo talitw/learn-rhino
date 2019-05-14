@@ -5,4 +5,4 @@ Captivate tutorial for:
 - Viewing objects
 - Manipulating objects
 
-👉 [Start Course](https://talitw.github.io/learn-rhino/tutorial.html)
+👉 [Start Course](https://talitw.github.io/learn-rhino/)
